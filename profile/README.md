@@ -1,7 +1,7 @@
 <p align=center>
   <a href="https://duckscore.co/">
-    <img src="https://raw.githubusercontent.com/duckscore/duckscore/dev/assets/duckscore-icon.png"></img><br>
-    <img src="https://raw.githubusercontent.com/duckscore/duckscore/dev/assets/duckscore-text.png"></img>
+    <img src="https://github.com/duckscore/duckscore/blob/master/dev/assets/duckscore-icon.png?raw=true"></img><br>
+    <img src="https://github.com/duckscore/duckscore/blob/master/dev/assets/duckscore-text.png?raw=true"></img>
   </a>
   <br><br>
   <a href="https://discord.gg/CPUC2sNR6Y">
